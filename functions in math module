@@ -1,0 +1,5 @@
+import math as m
+print(m.sqrt(25))
+print(m.ceil(2.7))
+print(m.floor(2.7))
+print(m.factorial(4))
